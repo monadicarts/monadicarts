@@ -1,4 +1,6 @@
-# Monadica 🌐
+# ✨monadica✨
+
+![Monadica Logo](assets/monadica256.png)
 
 ![Open Source License](https://img.shields.io/badge/license-MIT-blue) 
 ![GitHub contributors](https://img.shields.io/github/contributors/monadica/monadica) 
