@@ -56,7 +56,7 @@ Monadica holds high standards for contributions, both technically and ethically.
 
 ## Code of Conduct 🤝
 
-All contributors must adhere to the Monadica [Code of Conduct](https://github.com/monadica/monadica/blob/main/CODE_OF_CONDUCT.md). We are committed to providing a welcoming environment for everyone, and we have zero tolerance for harassment, discrimination, or inappropriate behavior.
+All contributors must adhere to the Monadica [Code of Conduct](CODE_OF_CONDUCT.md). We are committed to providing a welcoming environment for everyone, and we have zero tolerance for harassment, discrimination, or inappropriate behavior.
 
 ---
 
