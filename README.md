@@ -39,14 +39,14 @@ Monadica is dedicated to creating impactful, open-source tools, libraries, and f
 We welcome contributions from all corners of the world! Here are some ways to get involved:
 
 1. **Join the Conversation**: Join the discussion in our [GitHub Issues](https://github.com/monadica/monadica/issues).
-2. **Contribute Code**: Fork a repository, work on a bug, or implement a feature. Make sure to check out our [contributing guidelines](https://github.com/monadica/monadica/blob/main/CONTRIBUTING.md) to get started.
+2. **Contribute Code**: Fork a repository, work on a bug, or implement a feature. Make sure to check out our [contributing guidelines](CONTRIBUTING.md) to get started.
 3. **Spread the Word**: If you like what we're building, share it! Monadica thrives with community support, and every bit helps.
 4. **Support Our Mission**: Monadica LLC is the primary backer of our projects, but we rely on community involvement to succeed. If you’d like to support us financially, please check out our [sponsorship options](https://github.com/sponsors/monadica).
 
 ### License and Code of Conduct 📜
 
 - **License**: Monadica projects are licensed under the [MIT License](https://opensource.org/licenses/MIT), ensuring open access and freedom to use, modify, and distribute.
-- **Code of Conduct**: We have a [Code of Conduct](https://github.com/monadica/monadica/blob/main/CODE_OF_CONDUCT.md) to foster an inclusive, respectful, and positive environment. By contributing to Monadica, you agree to uphold these values.
+- **Code of Conduct**: We have a [Code of Conduct](CODE_OF_CONDUCT.md) to foster an inclusive, respectful, and positive environment. By contributing to Monadica, you agree to uphold these values.
 
 ### Transparency and Partnership with Monadica LLC 💼
 
