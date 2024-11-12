@@ -15,7 +15,7 @@ There are many ways to get involved with Monadica! Here’s how you can contribu
 ### 1. Report Issues 🐞
 Found a bug or a vulnerability? Reporting issues is a great way to help us improve. To report an issue:
 
-- **Check for Duplicates**: Before reporting, search the [existing issues](https://github.com/monadica/monadica/issues) to see if it has already been raised.
+- **Check for Duplicates**: Before reporting, search the [existing issues](https://github.com/monadica/monadicarts/issues) to see if it has already been raised.
 - **Provide Details**: Give a clear, concise description of the issue, steps to reproduce, and any relevant environment information.
 - **Label Appropriately**: Use labels like “bug,” “enhancement,” or “documentation” to help us categorize issues effectively.
 
@@ -36,13 +36,13 @@ Documentation is essential for making Monadica accessible to everyone. Contribut
 ### 4. Contribute Code 💻
 If you’re ready to dive into the code, we’d love your help! Here’s how:
 
-- **Find a Good First Issue**: Look for [issues labeled “good first issue”](https://github.com/monadica/monadica/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started.
+- **Find a Good First Issue**: Look for [issues labeled “good first issue”](https://github.com/monadicarts/monadicarts/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to get started.
 - **Fork the Repository**: Fork the repository, clone it locally, and create a new branch.
 - **Write Clean, Documented Code**: Follow our coding style, document your code, and test thoroughly.
 - **Submit a Pull Request**: When your code is ready, submit a pull request (PR). Include a clear summary and reference any related issues.
 
 ### 5. Join the Discussion 💬
-Participate in conversations, attend virtual meetups, and join us on our [community forums](https://github.com/monadica/monadica/discussions). Everyone’s voice matters!
+Participate in conversations, attend virtual meetups, and join us on our [community forums](https://github.com/monadicarts/monadicarts/discussions). Everyone’s voice matters!
 
 ---
 
@@ -67,6 +67,6 @@ Here’s a step-by-step guide to get you up and running:
 1. **Fork the Repository**: Go to the Monadica repository and fork it to your GitHub account.
 2. **Clone Your Fork**: Clone your fork locally and set up the main repository as an upstream remote:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/monadica.git
+   git clone https://github.com/YOUR_USERNAME/monadicarts.git
    cd monadica
-   git remote add upstream https://github.com/monadica/monadica.git
+   git remote add upstream https://github.com/monadicarts/monadicarts.git
