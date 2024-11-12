@@ -3,9 +3,9 @@
 ![Monadica Logo](assets/monadica256.png)
 
 ![Open Source License](https://img.shields.io/badge/license-MIT-blue) 
-![GitHub contributors](https://img.shields.io/github/contributors/monadica/monadica) 
-![Issues](https://img.shields.io/github/issues/monadica/monadica) 
-![Stars](https://img.shields.io/github/stars/monadica/monadica?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/monadicarts/monadicarts) 
+![Issues](https://img.shields.io/github/issues/monadicarts/monadicarts) 
+![Stars](https://img.shields.io/github/stars/monadicarts/monadicarts?style=social)
 
 Welcome to **Monadica**! 🎉 We’re building a future where open source powers positive change for all of humanity. Monadica is dedicated to responsible stewardship in code, ecosystem, and humanity — and we’re thrilled to invite you to join us on this journey.
 
