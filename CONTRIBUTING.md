@@ -1,4 +1,8 @@
-# Contributing to Monadica 🌍
+# Contributing 
+
+✨monadica✨
+
+![monadica logo](assets/monadica128.png)
 
 Thank you for considering contributing to **Monadica**! By participating, you’re joining a community dedicated to building technology that empowers, connects, and uplifts everyone. Monadica values responsible stewardship, transparency, equality, and social good — and we’re excited to work together to make a positive impact.
 
