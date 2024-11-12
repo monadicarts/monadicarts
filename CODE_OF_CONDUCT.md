@@ -1,4 +1,6 @@
-# Monadica Code of Conduct 🌍
+# Code of Conduct 🌍
+
+![Monadica Logo](assets/monadica256.png)
 
 Monadica is committed to fostering a welcoming, inclusive, and respectful environment for all contributors and participants. We believe in responsible stewardship, openness, and the power of technology to drive social good. We expect everyone who engages with our community to uphold these values and help create a positive space for everyone involved.
 
